@@ -1,0 +1,30 @@
+p{
+    color: red;
+    letter-spacing: 3px;
+}
+#mobilenet{
+    letter-spacing: 2px;
+}
+.google-lens{
+    letter-spacing: 2px;
+}
+#eraser{
+ width: 100px;
+ height: 100px;
+ 
+}
+#pencil{
+    width: 500px;
+}
+#scale{
+    width: 200px;
+    height: 200px;
+}
+#sello-tape{
+    width: 200px;
+    height: 200px;
+}
+#pen{
+    width: 200px;
+    height: 200px;
+}
